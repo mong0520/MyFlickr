@@ -1,0 +1,1 @@
+ant -f build-mac.xml release-mac
